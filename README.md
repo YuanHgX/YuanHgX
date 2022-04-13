@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuanHgX
-- 👀 I’m interested in beginner coding, R, Python, SQL, 
-- 🌱 I’m currently learning R
+- 👀 I’m interested in beginner coding, R, Python, and Solidity
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: yx2741@columbia.edu
 
